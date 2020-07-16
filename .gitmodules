@@ -1,0 +1,27 @@
+[submodule "Documentation"]
+	path = Documentation
+	url = https://github.com/ardop3/Documentation.git
+[submodule "ARDOP3.0-Perception-System"]
+	path = ARDOP3.0-Perception-System
+	url = https://github.com/ardop3/ARDOP3.0-Perception-System.git
+[submodule "ARDOP3.0-Manipulation-System"]
+	path = ARDOP3.0-Manipulation-System
+	url = https://github.com/ardop3/ARDOP3.0-Manipulation-System.git
+[submodule "Ardop3.0-TIC-TAC_TOE"]
+	path = Ardop3.0-TIC-TAC_TOE
+	url = https://github.com/ardop3/Ardop3.0-TIC-TAC_TOE.git
+[submodule "Ardop-arm-Arduino-Library"]
+	path = Ardop-arm-Arduino-Library
+	url = https://github.com/ardop3/Ardop-arm-Arduino-Library.git
+[submodule "ARDOP3.0-Description"]
+	path = ARDOP3.0-Description
+	url = https://github.com/ardop3/ARDOP3.0-Description.git
+[submodule "ARDOP3.0-Simulations"]
+	path = ARDOP3.0-Simulations
+	url = https://github.com/ardop3/ARDOP3.0-Simulations.git
+[submodule "ARDOP-Kinematics-Simulator"]
+	path = ARDOP-Kinematics-Simulator
+	url = https://github.com/ardop3/ARDOP-Kinematics-Simulator.git
+[submodule "ARDOP3.0-Design"]
+	path = ARDOP3.0-Design
+	url = https://github.com/ardop3/ARDOP3.0-Design.git
