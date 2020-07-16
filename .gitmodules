@@ -38,3 +38,6 @@
 [submodule "ARDOP3.0-Navigation-System/Smart_Navigator"]
 	path = ARDOP3.0-Navigation-System/Smart_Navigator
 	url = https://github.com/shiva-raj-km/Smart_Navigator.git
+[submodule "ardop3.github.io"]
+	path = ardop3.github.io
+	url = https://github.com/ardop3/ardop3.github.io.git
