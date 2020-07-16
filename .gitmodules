@@ -25,3 +25,16 @@
 [submodule "ARDOP3.0-Design"]
 	path = ARDOP3.0-Design
 	url = https://github.com/ardop3/ARDOP3.0-Design.git
+
+[submodule "ARDOP3.0-Navigation-System/navigator_UserInterface"]
+	path = ARDOP3.0-Navigation-System/navigator_UserInterface
+	url = https://github.com/shiva-raj-km/navigator_UserInterface.git
+[submodule "ARDOP3.0-Navigation-System/Smart_navigator_urdf"]
+	path = ARDOP3.0-Navigation-System/Smart_navigator_urdf
+	url = https://github.com/shiva-raj-km/Smart_navigator_urdf.git
+[submodule "ARDOP3.0-Navigation-System/cartographer_navigator"]
+	path = ARDOP3.0-Navigation-System/cartographer_navigator
+	url = https://github.com/shiva-raj-km/cartographer_navigator.git
+[submodule "ARDOP3.0-Navigation-System/Smart_Navigator"]
+	path = ARDOP3.0-Navigation-System/Smart_Navigator
+	url = https://github.com/shiva-raj-km/Smart_Navigator.git
